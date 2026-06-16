@@ -29,7 +29,6 @@ def test_checkout(driver):
     checkout = CheckoutPage(driver)
     checkout.checkout_details("prajit", "shrestha", "44600")
 
-    print("After continue:", driver.current_url)
 
     # Assertion
     title = driver.find_element(By.CLASS_NAME, "title")
