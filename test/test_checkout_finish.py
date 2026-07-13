@@ -5,7 +5,9 @@ from page_object.cart_page import CartPage
 from page_object.Checkout import CheckoutPage
 from page_object.checkout_complete import CheckoutCompletePage
 from config.config import BASE_URL,USERNAME,PASSWORD
-from selenium.webdriver.common.by import By
+from utilities.logger import get_logger
+
+logger = get_logger()
 
 
 def test_checkout_complete(driver):

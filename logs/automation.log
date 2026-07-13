@@ -1,0 +1,15 @@
+2026-07-13 13:01:09,995 | INFO | test_login.py | test_login | Starting login test
+2026-07-13 13:01:09,997 | INFO | login_page.py | enter_username | Entering username
+2026-07-13 13:01:10,119 | INFO | login_page.py | enter_password | Entering passowrd
+2026-07-13 13:18:38,921 | INFO | test_inventorypage.py | test_add_to_cart | Starting inventory test
+2026-07-13 13:18:38,921 | INFO | test_inventorypage.py | test_add_to_cart | Adding the product
+2026-07-13 13:18:38,982 | INFO | test_inventorypage.py | test_add_to_cart | Navigate to shopping cart
+2026-07-13 13:32:50,313 | INFO | test_social_media_icon.py | test_social_media_icon | Starting social media test
+2026-07-13 13:32:50,313 | INFO | test_social_media_icon.py | test_social_media_icon | Opening twitter test
+2026-07-13 13:32:53,749 | INFO | test_social_media_icon.py | test_social_media_icon | Opening facebook test
+2026-07-13 13:32:57,386 | INFO | test_social_media_icon.py | test_social_media_icon | Opening linkdin test
+2026-07-13 13:38:02,711 | INFO | test_checkout.py | test_checkout | Starting inventory test
+2026-07-13 13:38:02,869 | INFO | test_checkout.py | test_checkout | Starting checkout test
+2026-07-13 13:38:02,869 | INFO | test_checkout.py | test_checkout | Adding details
+2026-07-13 13:38:28,455 | INFO | test_logout.py | test_logout | Starting logout test
+2026-07-13 13:38:28,456 | INFO | test_logout.py | test_logout | Clicked logout
