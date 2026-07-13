@@ -34,31 +34,32 @@ This framework includes a custom logging utility to capture test execution detai
 - Uses `RotatingFileHandler` to prevent log files from growing indefinitely
 - Maintains previous log history using backup log files
 
-Example log format:
+```text
 2026-07-13 12:30:10 | INFO | login_page.py | enter_username | Entering username
 ---
 ## Project Structure
 
+```text
 saucedemo_project
 │
 ├── config
-│ └── config.py
+│   └── config.py
 │
 ├── page_object
-│ └── login_page.py
+│   └── login_page.py
 │
 ├── test
-│ └── test_login.py
+│   └── test_login.py
 │
 ├── utilities
-│ └── logger.py
+│   └── logger.py
 │
 ├── logs
-│ └── automation.log
+│   └── automation.log
 │
 ├── conftest.py
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
-
+```
   
