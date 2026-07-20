@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+
+# Logs
+logs/
+
+# Allure generated reports
+allure-results/
+allure-report/
+
+# Screenshots
+screenshots/
